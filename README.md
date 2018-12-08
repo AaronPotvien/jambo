@@ -1,2 +1,4 @@
-# jambo
-testing stuff out
+# Jambo
+
+## Purpose:
+A place for testing stuff out...
