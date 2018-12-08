@@ -1,7 +1,4 @@
-x <- 1:100
-summary(x)
-
-for (x in 1:100){
+for (x in 1:200){
 a <- sum(1:x)
 print(a)
 }
